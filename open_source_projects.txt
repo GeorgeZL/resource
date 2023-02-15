@@ -19,3 +19,7 @@ Open Source Board:
 3. fvp:           https://developer.arm.com/Tools%20and%20Software/Fixed%20Virtual%20Platforms
 4. ADS:           https://developer.arm.com/Tools%20and%20Software/Arm%20Development%20Studio
 
+Automotive Linux
+=======================================================
+1. redhat:        https://gitlab.com/redhat/automotive
+2. AGL:           https://www.automotivelinux.org/
