@@ -1,0 +1,21 @@
+ARM Related:
+=======================================================
+security related:
+1. atf:     https://www.trustedfirmware.org/projects/tf-a/
+2. hafnium: https://www.trustedfirmware.org/projects/hafnium/
+            (article: https://ipads.se.sjtu.edu.cn/_media/publications/twinvisor-sosp21.pdf)
+3. op-tee:  https://www.trustedfirmware.org/projects/op-tee/
+4. cca:     https://www.trustedfirmware.org/projects/tf-rmm/
+
+open source projects:
+1. buildroot: https://github.com/buildroot/buildroot
+2. u-boot:    https://github.com/u-boot/u-boot
+3. aem:       https://git.gitlab.arm.com/arm-reference-solutions
+
+Open Source Board:
+=======================================================
+1. nvidia jetson: https://github.com/OE4T/tegra-demo-distro
+2. qemu:          https://github.com/qemu/qemu
+3. fvp:           https://developer.arm.com/Tools%20and%20Software/Fixed%20Virtual%20Platforms
+4. ADS:           https://developer.arm.com/Tools%20and%20Software/Arm%20Development%20Studio
+
